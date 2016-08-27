@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Tabacalera</string>
+
+    <string-array name="taller_titulos">
+        <item>"Radio"</item>
+        <item>"Malabares"</item>
+        <item>"Telas"</item>
+        <item>"Danza"</item>
+        <item>"Circo"</item>
+        <item>"Bicicletas"</item>
+    </string-array>
+
+    <string-array name="taller_horarios">
+        <item>"Lunes de 18h a 20h"</item>
+        <item>"Viernes de 17h a 21h"</item>
+        <item>"Viernes de 17h a 21h"</item>
+        <item>"Jueves de 18:30h a 21:30h"</item>
+        <item>"Viernes de 19h a 21h"</item>
+        <item>"Miércoles y Jueves de 18h a 20h"</item>
+    </string-array>
+
+    <string-array name="eventos_titulos">
+        <item>"Evento 1"</item>
+        <item>"Evento 2"</item>
+        <item>"Evento 3"</item>
+        <item>"Evento 4"</item>
+        <item>"Evento 5"</item>
+        <item>"Evento 6"</item>
+    </string-array>
+
+    <string-array name="eventos_fechas">
+        <item>"Fecha 1"</item>
+        <item>"Fecha 1"</item>
+        <item>"Fecha 2"</item>
+        <item>"Fecha 3"</item>
+        <item>"Fecha 3"</item>
+        <item>"Fecha 4"</item>
+    </string-array>
+
+</resources>
